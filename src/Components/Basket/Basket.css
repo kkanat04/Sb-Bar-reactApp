@@ -1,0 +1,106 @@
+h2,
+h3{
+    color: white;
+}
+.basket-h2{
+    margin-left: 12%;
+    margin-bottom: 3%;
+    font-size: 35px;
+    margin-top: 5%;
+}
+.basket-block{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-bottom: 5%;
+    margin-left: 3%;
+    
+}
+.text-side{
+    display: block;
+    width: 50%;
+}
+.text-basket{
+    margin-bottom: 5%;
+    margin-top: -5%;
+    font-size: 22px;
+}
+.text-basket,
+.descr-basket{
+    display: flex;
+    justify-content: space-between;
+}
+.descr-basket p{
+    font-size: 20px;
+}
+.basket-block p{
+    color: white;
+}
+.basket-img{
+    width: 35%;
+    margin-left: 10%;
+}
+.basket-img img{
+    width: 100%;
+}
+.inf-basket{
+    color: white;
+}
+.btn-order{
+    background: transparent;
+    border:1px solid white;
+    padding: 5px;
+    color: white;
+    width: 20%;
+    height: 45px;
+    font-size: 19px;
+    
+}
+.inf-basket{
+    margin-left: 10%;
+    font-size: 22px;
+}
+
+.additional{
+    color: white;
+    font-size: 32px;
+    margin-top: 8%;
+    /* margin-bottom: 2%; */
+    margin-left: 10%;
+}
+.add-inf{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+}
+.add-inf p {
+    color: white;
+}
+
+
+
+
+.basket_sub-block{
+    width: 22%;
+    margin-top: 6%;
+}
+.basket_sub-block img{
+    width: 100%;
+}
+.text p{
+    font-size: 20px;
+}
+.text .descr{
+    font-size: 15px;
+}
+
+.sub-text{
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.inBag{
+    font-size: 15px;
+}
+

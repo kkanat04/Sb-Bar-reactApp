@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.menu-a{
+  color: chartreuse;
+  
+}
+body{
+  background: url('./images/bkg.png');
+  background-size: 100%;
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
+

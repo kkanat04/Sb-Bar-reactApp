@@ -1,0 +1,10 @@
+.input{
+    color: white;
+    font-size: 15px;
+}
+input{
+    background-color: black;
+    width: 60%;
+    padding: 10px;
+    height: 20px;
+}

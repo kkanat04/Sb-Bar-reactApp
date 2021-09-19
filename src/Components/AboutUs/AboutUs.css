@@ -1,0 +1,34 @@
+.screen3{
+    /* height: 500px; */
+    width: 100%;
+    margin-top: 8%;
+}
+.h2-onas{
+    position: absolute;
+    color: white;
+    margin-top: -40%;
+    font-size: 30px;
+}
+.onas{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 88%;
+    height: 400px;
+    color: white;
+    margin-left: 9%;
+    margin-top: 12%;
+}
+.onas img{
+    width: 45%;
+    /* height: 400px; */
+}
+.p{
+    width: 110%;
+    line-height: 30px;
+    font-size: 15px;
+    height: 100%;
+    letter-spacing: 2px;
+    /* font-family: 'Times New Roman', Times, serif; */
+}

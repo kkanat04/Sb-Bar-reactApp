@@ -1,0 +1,86 @@
+.blocks h5,
+.blocks p{
+    color: white;
+}
+/* .menuu{
+    background: transparent;
+} */
+.blocks{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.sub-block{
+    width: 27%;
+    margin-top: 6%;
+}
+.sub-block img{
+    width: 100%;
+}
+.text p{
+    font-size: 22px;
+}
+.text .descr{
+    font-size: 17px;
+}
+
+.sub-text{
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+}
+.inBag{
+    background-color: black;
+    color: white;
+    border: 1px white solid;
+    height: 47px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    font-size: 16px;
+
+}
+
+.Menu {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    /* background-color: rgb(5, 5, 5); */
+    color: white;
+    width: 90%;
+    align-items: center;
+}
+ul li{
+text-decoration: none;
+list-style: none;
+color: white;
+}
+.menuBig {
+font-size: 38px;
+}
+.InMenu {
+font-size: 14px;
+}
+.InMenu:hover {
+font-size: 15px;
+border-bottom: 2px solid;
+border-top: 2px solid;
+padding: 3px;
+
+}
+
+.btn{
+    padding: 5px;
+    height: 45px;
+    width: 23%;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    margin-left: 39%;
+    margin-top: 10%;
+    font-size: 18px;
+}

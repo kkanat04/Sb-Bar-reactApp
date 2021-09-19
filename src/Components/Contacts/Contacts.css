@@ -1,0 +1,43 @@
+.contacts{
+    position: relative;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 8%;
+    margin-top: 6%;
+}
+
+.contact-right h3{
+    color: white;
+    font-size: 20px;
+    line-height: 16px;
+}
+.contact-right p{
+    font-size: 16px;
+    color: white;
+}
+.contact-right{
+    margin-top: -1%;
+}
+.social{
+    display: flex;
+}
+.contact-h3-p{
+    margin-bottom: 18%;
+}
+.social img{
+    margin-right: 20%;
+}
+.map{
+    width: 68%;
+}
+.map img{
+    width: 100%;
+}
+.h2-cont{
+    font-size: 33px;
+    color: white;
+    margin-left: 8%;
+    margin-top: 4%;
+    margin-bottom: -2%;
+}
